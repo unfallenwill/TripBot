@@ -30,6 +30,8 @@ Gather all trip information from the current conversation context:
 
 Fill in the template with data collected from the conversation.
 
+**Language**: The template is a structural reference — all headings, labels, table headers, and instructional text **must be written in the same language the user is using**. For example, if the user speaks Chinese, use "## 快速参考" instead of "## Quick Reference"; if Japanese, use "## 日程表" instead of "## Day-by-Day Itinerary". Content values (place names, addresses) stay in their original language.
+
 ### 3. Save the File
 
 Write the compiled document to:

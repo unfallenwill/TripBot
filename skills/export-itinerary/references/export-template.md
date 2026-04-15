@@ -1,6 +1,8 @@
-# Export Template
+# Export Template (Structural Reference)
 
-Use this template to compile the complete trip plan into a single Markdown file.
+Use this template as a **structural reference** to compile the complete trip plan into a single Markdown file.
+
+**IMPORTANT**: All headings, labels, table headers, and static text must be written in the **user's language**. This English template only shows the structure — translate every heading and label to match the user's language. Place names, addresses, and other proper nouns stay in their original language.
 
 ---
 

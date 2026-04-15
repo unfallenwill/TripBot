@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "tripbot",
-      "source": ".",
+      "source": "./",
       "description": "Conversational travel planning plugin with real-time data from flights, hotels, weather, and maps APIs",
       "version": "0.1.0",
       "author": {

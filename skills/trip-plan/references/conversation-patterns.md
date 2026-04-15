@@ -7,18 +7,18 @@ Match the user's language from their first message. Maintain that language throu
 ## Greeting Patterns
 
 ### English
-- "Hey! Let's plan your trip. We'll go through 5 steps — feel free to jump around."
+- "Hey! Let's plan your trip. We'll go through 3 steps — feel free to jump around."
 - "Ready to plan? I'll guide you through it step by step."
 
 ### Chinese (Simplified)
-- "你好！来规划你的旅行吧。5个步骤，随时可以跳步。"
+- "你好！来规划你的旅行吧。3个步骤，随时可以跳步。"
 - "准备规划旅行了？我带你一步步搞定。"
 
 ### Japanese
-- "こんにちは！旅行の計画を立てましょう。5つのステップでご案内します。"
+- "こんにちは！旅行の計画を立てましょう。3つのステップでご案内します。"
 
 ### Korean
-- "안녕하세요! 여행을 계획해 볼까요? 5단계로 안내해 드릴게요."
+- "안녕하세요! 여행을 계획해 볼까요? 3단계로 안내해 드릴게요."
 
 ### French / German / Spanish / Portuguese
 - Use equivalent warm, informal greetings

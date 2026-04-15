@@ -1,17 +1,14 @@
 # TripBot - Travel Planning Plugin for Claude Code
 
-A plugin that guides users through structured 5-step travel planning with real-time data from Google Maps MCP.
+A plugin that guides users through structured 3-step travel planning with real-time data from Google Maps MCP.
 
 ## Trip Planning Flow
 
 ```
-trip-plan (orchestrator)
-  ├─ 1. framework    → dates, budget, destination, companions
-  ├─ 2. research     → attractions & activities (uses MCP)
-  ├─ 3. itinerary    → day-by-day schedule
-  ├─ 4. booking      → transport & hotel RECOMMENDATIONS ONLY
-  ├─ 5. prep-checklist → documents, apps, packing list
-  └─ export-itinerary → compile into single document
+trip-plan (orchestrator + export)
+  ├─ 1. framework    → dates, budget, destination, companions + research attractions (uses MCP)
+  ├─ 2. itinerary    → day-by-day schedule
+  └─ 3. booking      → transport & hotel RECOMMENDATIONS ONLY + prep checklist
 ```
 
 Steps are adaptive — users can skip, reorder, or jump ahead. Data from earlier steps informs later ones.

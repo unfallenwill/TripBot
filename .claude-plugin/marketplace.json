@@ -1,0 +1,27 @@
+{
+  "name": "tripbot",
+  "owner": {
+    "name": "TripBot Contributors"
+  },
+  "plugins": [
+    {
+      "name": "tripbot",
+      "source": ".",
+      "description": "Conversational travel planning plugin with real-time data from flights, hotels, weather, and maps APIs",
+      "version": "0.1.0",
+      "author": {
+        "name": "TripBot Contributors",
+        "url": "https://github.com/hicaosen/TripBot"
+      },
+      "homepage": "https://github.com/hicaosen/TripBot",
+      "repository": "https://github.com/hicaosen/TripBot",
+      "license": "MIT",
+      "keywords": [
+        "travel",
+        "planning",
+        "itinerary",
+        "maps"
+      ]
+    }
+  ]
+}

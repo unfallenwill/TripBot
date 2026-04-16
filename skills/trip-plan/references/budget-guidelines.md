@@ -44,6 +44,15 @@ Approximate daily per-person costs (in USD equivalent) for different travel styl
 | Sub-Saharan Africa | $30-50 | $60-100 | $150-250 | $400+ |
 | Middle East | $40-60 | $80-140 | $200-350 | $500+ |
 
+## Budget Vibe Reference
+
+| Budget Vibe | Accommodation | Food | Transport |
+|-------------|--------------|------|-----------|
+| Backpacker | Hostels, guesthouses | Street food, local | Public transit, walk |
+| Moderate | 3-star hotels, Airbnb | Mix of local + sit-down | Mix of transit + rideshare |
+| Comfortable | 4-star hotels, nice Airbnb | Restaurants, some fine dining | Rideshare, some private |
+| Luxury | 5-star, boutique hotels | Fine dining, curated experiences | Private drivers, first class |
+
 ## Notes
 
 - These are 2025-2026 estimates, adjust for inflation
